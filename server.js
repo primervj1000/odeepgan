@@ -72,9 +72,9 @@ app.get('/running', (req, res) => {
         </head>
         <body>
             <div class="container">
-                <h1>Service is Running! ✅</h1>
-                <p>Node.js Upload Server is Healthy and deployed on Northflank.</p>
-                <p>Upload files to: <b>/upload</b></p>
+                <h1>E dey run ✅</h1>
+                <p>✅✅✅✅✅✅</p>
+                
             </div>
         </body>
         </html>
